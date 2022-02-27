@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of the late Dr. Samuel Annesley, by way of elegy: with a preface Written by one of his hearers.</title>
+            <author>Defoe, Daniel, 1661?-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82278</idno>
+            <idno type="STC">Wing D829B</idno>
+            <idno type="STC">ESTC R229675</idno>
+            <idno type="EEBO-CITATION">99895491</idno>
+            <idno type="PROQUEST">99895491</idno>
+            <idno type="VID">152930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2334:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of the late Dr. Samuel Annesley, by way of elegy: with a preface Written by one of his hearers.</title>
+                  <author>Defoe, Daniel, 1661?-1731.</author>
+               </titleStmt>
+               <extent>[6], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: D.F.</note>
+                  <note>Attributed by Wing CD-ROM, 1996 to Daniel Defoe.</note>
+                  <note>Reproduction of original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Annesley, Samuel, 1620?-1696 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152930:1" rendition="simple:additions"/>
+            <p>THE CHARACTER Of the late <hi>D<hi rend="sup">r.</hi> Samuel Anneſley.</hi> By way of ELEGY: WITH A PREFACE.</p>
+            <p>Written by one of his Hearers.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1697.</p>
+         </div>
+         <div type="modern_bookplate">
+            <pb facs="tcp:152930:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>Will:<hi rend="sup">m</hi> Cole Coll: Regal: Cantab. A. M.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152930:2"/>
+            <head>The PREFACE.</head>
+            <p>
+               <hi>I</hi> Am very ſenſible, that the <hi>Characters of Cler<g ref="char:EOLhyphen"/>gy-Men</hi> are the moſt difficult in the World to be wrote, eſpecially with Impartiality and Truth. <hi>Miniſters are but Men as other Men are; and Men too, as St.</hi> Paul <hi>ſaid of himſelf, of like Paſſions with our ſelves:</hi> A Truth ſo ſiſibly made out now, that 'tis not every Miniſter's Life will bear a Character.</p>
+            <p>Not that I deſign to make Reflections upon any, nor would I have my Character of one be a Satyr upon others; and when I ſay, that <hi>few</hi> or <hi>none does come up to the Character of Dr.</hi> Anneſley, yet I wou'd not be underſtood as if there were not a great many left whoſe Eminent Piety and Vertue deſerved very great Reſpect.</p>
+            <p>But if I muſt come to make Diſtinctions, I muſt ſay, That among the beſt, I <hi>neither know, nor have heard</hi> of one left, who can pretend to come up to his Degree in all Points; for I am not diſtinguiſhing between the <hi>Good and the Bad, but between the Good and the Beſt.</hi>
+            </p>
+            <p>Every Good Miniſter does not make a Good Man; there are <hi>thwart Lines</hi> in the Diſpoſitions of ſome of the beſt, which even Grace it ſelf has not the power to ohliterate: And the Effects of this are moſt viſible in
+<pb facs="tcp:152930:3"/>their relative Converſation. Not but that I believe a Man may be of a very ill Temper, and yet be a true Chriſtian: But I cou'd wiſh <hi>no ſuch were to be Miniſters.</hi> How Beautiful is it, to ſee a Man that is a <hi>Miniſter be alſo a Gentleman!</hi> For certainly Good Manners are the moſt conſiſtent with Chriſtianity of any thing in the World.</p>
+            <p>Vanity and Self-eſteem on one hand, Covetouſneſs and <hi>Self-ſeeking</hi> on the other, are Things ſo frequent among our <hi>Teachers,</hi> that never was there more need for us to hear the Word of God <hi>without Reſpect of Perſons.</hi> If this has no other effect, 'twill certainly raiſe the Value of ſuch Men who keep themſelves un<g ref="char:EOLhyphen"/>ſpotted from the like.</p>
+            <p>And, I do confeſs, this has raiſed my Eſteem for the <hi>Memory of Dr. ANNESLEY,</hi> whoſe ge<g ref="char:EOLhyphen"/>nerous Soul had nothing in him that was little or mean; of whom, I am ſure, one Line in the <hi>Elegy</hi> is moſt particularly true:</p>
+            <p>
+               <hi>He had no Prieſt-craft in him, nor no Pride.</hi>
+            </p>
+            <p>He had a native genuine Honeſty; any thing that was ſelfiſh or narrow was really below him, as a <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> as well as <hi>Chriſtian:</hi> His Temper was ſo good, and his Mind ſo calm, that the <hi>meaneſt Creature in the World might have the freeſt Converſation with him.</hi>
+            </p>
+            <pb facs="tcp:152930:3"/>
+            <p> I think I need make no Apology for the <hi>Character,</hi> as it referrs to him, unleſs it be that I have ſaid too little of him: what is weakly expreſs'd is the Error of my Capacity, and may be mended by ſome body elſe; but I have diligently perus'd it, and cannot find that I have ſaid any thing that is not <hi>really True of him.</hi> If I have taken any <hi>Poetick Licenſe,</hi> I de<g ref="char:EOLhyphen"/>ſire to be underſtood in ſuch a Latitude as ſuch Ex<g ref="char:EOLhyphen"/>preſſions ought to be taken in: I do no where mean, that Dr. <hi>Anneſley</hi> was not a Man ſubject to Frailties, or Infirmities, or that he was arriv'd to a Perfection in this Life; but this I muſt ſay, He is the <hi>only Man of whom I could never hear one Refle<g ref="char:EOLhyphen"/>ction, either by Friend or Adverſary, either while living, or ſince dead.</hi> He had no Enemies while alive, nor has no Scandal or Slander on him now Dead. His Vertues we knew, his Infirmities none knew but God and himſelf. Nor do I ſay any where, that there have not been, or are not Men of <hi>more ſublime Parts and general Learning;</hi> tho' he was ex<g ref="char:EOLhyphen"/>traordinary in both. For in Learning, Mens Excellen<g ref="char:EOLhyphen"/>cies differ as their <hi>Genius leads;</hi> ſome are more Maſters of <hi>Polite Language;</hi> ſome write <hi>ſiner</hi> than they ſpeak; ſome excel in <hi>Polemical</hi> Divinity, ſome in <hi>Contro<g ref="char:EOLhyphen"/>verſal;</hi> ſome are greater <hi>Linguiſts,</hi> ſome greater <hi>Lo<g ref="char:EOLhyphen"/>gicians;</hi> ſome have a <hi>ſoft</hi> perſwaſive Stile, ſome a
+<pb facs="tcp:152930:4" rendition="simple:additions"/>
+               <hi>ſublime,</hi> and ſome a <hi>majeſtick:</hi> But theſe are not Clauſes in which I diſtinguiſh him ſo much; he had a needful meaſure of all. <hi>Practical Divinity was his Buſineſs, and Caſes of Conſcience his Study.</hi> But 'tis the Zeal, the Candor, and Sincerity of his Mind; the Largeneſs of his Charity, the Greatneſs of his Soul, the Sweetneſs of his Temper, and the <hi>Vaſtneſs of his Deſigns</hi> to propagate the Kingdom and Intereſt of his Maſter. Theſe are the Vertues which I magnifie to ſuch a heighth in Dr. <hi>Anneſley,</hi> and for which, I believe, no Man will think himſelf reflected on, by ſaying, <hi>He had no Equal.</hi>
+            </p>
+            <p>Parties might differ in Judgment, and yet all a<g ref="char:EOLhyphen"/>greed, That he was a Good Man; whether <hi>Confor<g ref="char:EOLhyphen"/>miſt or Nonconformiſt,</hi> All Lov'd him: and he comes under the woe of that Proverb, That all Men <hi>ſpeak Well of him.</hi> He was one of thoſe Good Men for which <hi>one wou'd even dare to die, when for a Righteous Man there is no ſuch Obligation.</hi> I ſhall run on no further in his <hi>Character</hi> here, af<g ref="char:EOLhyphen"/>ter what has been ſaid of him in the <hi>Pulpit;</hi> his <hi>Me<g ref="char:EOLhyphen"/>mory</hi> will live in the Minds of all that knew him, and thoſe who did not, may read ſomething of him in the <hi>following</hi> CHARACTER.</p>
+            <closer>
+               <signed>D. F.</signed>
+            </closer>
+            <argument>
+               <p>
+                  <add>vied a Character of him in Wood's AH<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: Ox: Vol: 2. p. 966 where it is said histrue Name was Aneley.</add>
+               </p>
+            </argument>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="1" facs="tcp:152930:4"/>
+            <head>The CHARACTER Of the late <hi>D<hi rend="sup">r.</hi> Samuel Anneſley.</hi> By way of ELEGY.</head>
+            <lg>
+               <l>'TWas ſpoke from Heaven, the Beſt of Men muſt Die,</l>
+               <l>
+                  <hi>No Pattent's ſeal'd for Immortality:</hi>
+               </l>
+               <l>Not God's own Favourites can ſhun the Stroke;</l>
+               <l>Even God himſelf cannot the Law revoke;</l>
+               <l>He can't, unleſs he ſhould at once repeal</l>
+               <l>The Eternal Laws of Nature: Change his Will;</l>
+               <l>Declare his Works imperfect, Life reſtore</l>
+               <l>To all that's Dead, and be a God no more.</l>
+               <l>The World, whoſe Nature is to fade and die,</l>
+               <l>Muſt <hi>change,</hi> and take up Immortality;</l>
+               <pb n="2" facs="tcp:152930:5"/>
+               <l> And Time, which to Eternity rouls on,</l>
+               <l>
+                  <hi>Muſt change, and be Eternity begun.</hi>
+               </l>
+               <l>All Things muſt ever live, or Man muſt die:</l>
+               <l>The Law's Supream, and Nature muſt obey.</l>
+               <l>How vain then, and <hi>impertinent</hi> is Grief,</l>
+               <l>Which nor to Dead nor Living gives Relief!</l>
+               <l>
+                  <hi>Sighs for departed Friends are ſenſeleſs things,</hi>
+               </l>
+               <l>Which them no Help, nor us no Comfort brings.</l>
+               <l>Tears on the Graves, where Breathleſs Bodies lie,</l>
+               <l>Our Ignorance, or Atheiſm, imply;</l>
+               <l>Aſhes and Sack-cloth, Cries and renting Cloaths,</l>
+               <l>
+                  <hi>Our Folly more than our Affection ſhows:</hi>
+               </l>
+               <l>For Grief is nothing, properly, but Rage,</l>
+               <l>And God himſelf's the Object we engage.</l>
+               <l>Fain we would live without his Negative;</l>
+               <l>
+                  <hi>Which when we can't accompliſh, then we grieve:</hi>
+               </l>
+               <l>The Paſſion's fooliſh, as it is profane;</l>
+               <l>The Action, as 'tis fruitleſs, and in vain.</l>
+               <pb n="3" facs="tcp:152930:5"/>
+               <l> 
+                  <hi>But wou'd <hi>you</hi> like a Man, or Chriſtian, grieve</hi>
+               </l>
+               <l>
+                  <hi>When others die, be thankful you're alive;</hi>
+               </l>
+               <l>
+                  <hi>Improve the Great Examples you look on,</hi>
+               </l>
+               <l>
+                  <hi>And take their Deaths for VVarnings of your own:</hi>
+               </l>
+               <l>For the beſt of Men cannot ſuſpend their Fate;</l>
+               <l>The Good die early, and the Bad die late.</l>
+               <l>The Eternal Laws of Life are fix'd and faſt,</l>
+               <l>And he who lateſt dies, yet dies at laſt.</l>
+               <l>Tho' early Vice does early Death preſage,</l>
+               <l>
+                  <hi>Yet Piety can lengthen no Man's Age:</hi>
+               </l>
+               <l>The Stroke's promiſcuous, and there's no ſuſpence</l>
+               <l>Beyond the ſtated Bounds of Providence;</l>
+               <l>For if <hi>diſtinguiſh'd Piety</hi> could ſave,</l>
+               <l>We had ſeen <hi>no Elegy,</hi> nor he no Grave.</l>
+               <l>
+                  <hi>Stay then, and ſpend a Thought upon his Herſe,</hi>
+               </l>
+               <l>Whoſe Name is more immortal than my Verſe:</l>
+               <l>For tho' Death's Stroke, like an impetuous Flood,</l>
+               <l>Involves in common Fate the Juſt and Good,</l>
+               <pb n="4" facs="tcp:152930:6"/>
+               <l> And in one Grave there undiſtinguiſh'd lies</l>
+               <l>
+                  <hi>The Aſhes of the Fooliſh and the VViſe,</hi>
+               </l>
+               <l>The Pious and Profane, the Mean, the Great,</l>
+               <l>
+                  <hi>And Grace it ſelf can be no Bribe to Fate;</hi>
+               </l>
+               <l>Yet Pious Works, like living Flowers, grow</l>
+               <l>
+                  <hi>To a kind of Immortality below;</hi>
+               </l>
+               <l>And Characters of Worthies, like the Sun,</l>
+               <l>Reflect a Luſtre, tho' themſelves are gone:</l>
+               <l>Which do immortal Names to them create,</l>
+               <l>For us to Honour and to Imitate.</l>
+               <l>Then ſee what Characters to him belong;</l>
+               <l>The beſt that Pen e'er wrote, or Poet ſung.</l>
+               <l>
+                  <hi>His Parents dedicated him, by Vow,</hi>
+               </l>
+               <l>To ſerve the Church, and early taught him how.</l>
+               <l>As <hi>Hannah,</hi> when ſhe for her <hi>Samuel</hi> pray'd,</l>
+               <l>The Welcome Loan with Thankfulneſs repay'd;</l>
+               <l>So they, foreſeeing 'twou'd not be in vain,</l>
+               <l>
+                  <hi>Ask'd him of God, and vow'd him back again;</hi>
+               </l>
+               <pb n="5" facs="tcp:152930:6"/>
+               <l> And he again as early did prepare</l>
+               <l>To liſt a willing Soldier in the Sacred War.</l>
+               <l>
+                  <hi>His Pious Courſe with Childhood he began,</hi>
+               </l>
+               <l>
+                  <hi>And was his Maker's ſooner than his own;</hi>
+               </l>
+               <l>As if deſign'd by Inſtinct to be Great,</l>
+               <l>His Judgment ſeem'd to antidate his Wit;</l>
+               <l>His Soul out-grew the natural rate of Years,</l>
+               <l>
+                  <hi>And full-grown Wit at half-grown Youth appears;</hi>
+               </l>
+               <l>Early the vigorous Combat he began,</l>
+               <l>And was an elder Chriſtian than a Man.</l>
+               <l>The Sacred Study all his Thoughts confin'd;</l>
+               <l>A ſign what ſecret Hand prepar'd his Mind:</l>
+               <l>
+                  <hi>The Heavenly Book he made his only School,</hi>
+               </l>
+               <l>
+                  <hi>In Youth his Study, and in Age his Rule.</hi>
+               </l>
+               <l>Thus he in blooming Years and Hopes began,</l>
+               <l>Happy, Belov'd, and Bleſt of God and Man;</l>
+               <l>Solid, yet Vigorous too, both Grave and Young,</l>
+               <l>A taking Aſpect, and a charming Tongue,</l>
+               <pb n="6" facs="tcp:152930:7"/>
+               <l> With <hi>David</hi>'s Courage, and <hi>Joſiah</hi>'s Youth,</l>
+               <l>
+                  <hi>All over Love, Sincerity, and Truth.</hi>
+               </l>
+               <l>The flattering World attack'd him with her <hi>Charms,</hi>
+               </l>
+               <l>But he ſhook the gaudy Trifle from his Arms;</l>
+               <l>When Fraud affaulted him, or <hi>Fame careſs'd,</hi>
+               </l>
+               <l>This he with Eaſe, and that with Scorn ſuppreſs'd:</l>
+               <l>Firm as the Rocks in rouling Seas abide,</l>
+               <l>When Flouds of Doubts and Dangers paſs beſide,</l>
+               <l>When <hi>Griefs</hi> come threatning on, or <hi>Comfort</hi> flows,</l>
+               <l>He was undepreſs'd by theſe, unrais'd by thoſe;</l>
+               <l>And thus advancing with a juſt Applauſe,</l>
+               <l>
+                  <hi>He grew a Champion in his Maſter's Cauſe;</hi>
+               </l>
+               <l>The <hi>Sacred Bow</hi> he ſo Divinely drew,</l>
+               <l>That every ſhot both <hi>hit</hi> and <hi>overthrew;</hi>
+               </l>
+               <l>
+                  <hi>His native Candor, and familiar Stile,</hi>
+               </l>
+               <l>Which did ſo oft his Hearers Hours beguile,</l>
+               <l>
+                  <hi>Charm'd us with Godlineſs,</hi> and while he ſpake,</l>
+               <l>We lov'd the <hi>Doctrine</hi> for the Teacher's ſake.</l>
+               <pb n="7" facs="tcp:152930:7"/>
+               <l> While he inform'd us what his Doctrines meant,</l>
+               <l>
+                  <hi>By dint of Practice more than Argument,</hi>
+               </l>
+               <l>Strange were the Charms of his Sincerity,</l>
+               <l>Which made his Actions and his Words agree</l>
+               <l>At ſuch a conſtant and exact a rate,</l>
+               <l>As made a Harmony we wondred at.</l>
+               <l>
+                  <hi>Honour be had by Birth, and not by Chance,</hi>
+               </l>
+               <l>And more by Merit than Inheritance;</l>
+               <l>But both together joyn'd, ſpell out his Name,</l>
+               <l>
+                  <hi>For Honeſty and Honour are the ſame,</hi>
+               </l>
+               <l>And ſhow, when Merit's joyn'd with Quality,</l>
+               <l>
+                  <hi>The Gentleman and Chriſtian may agree.</hi>
+               </l>
+               <l>
+                  <hi>Honour by Vertue only is upheld,</hi>
+               </l>
+               <l>
+                  <hi>And vain are all the Trophies Vice can build;</hi>
+               </l>
+               <l>For tho' by wicked Acts Men gain Applauſe,</l>
+               <l>The Reputation's rotten, like the Cauſe:</l>
+               <l>Vain too's the ſingle Honour of Deſcent,</l>
+               <l>
+                  <hi>Till Merit's added as a Supplement.</hi>
+               </l>
+               <pb n="8" facs="tcp:152930:8"/>
+               <l> But when to Vertue Grace infus'd is given,</l>
+               <l>
+                  <hi>The Sacred Incenſe reaches up to Heaven;</hi>
+               </l>
+               <l>No Force, or Fraud, can ſuch a Fame remove,</l>
+               <l>
+                  <hi>It pleaſes Men below, and God above.</hi>
+               </l>
+               <l>His <hi>negative Vertues</hi> alſo have been try'd,</l>
+               <l>
+                  <hi>He had no Prieſt-craft in him, nor no Pride;</hi>
+               </l>
+               <l>No Fraud nor Wheedling Arts to be eſteem'd,</l>
+               <l>
+                  <hi>But juſt the very Perſon that he ſeem'd;</hi>
+               </l>
+               <l>Nor was he touch'd or tainted with a Bribe,</l>
+               <l>That univerſal Blemiſh of the Tribe:</l>
+               <l>For if to Gifts he ever was enclin'd,</l>
+               <l>He laid none up, nor left us none behind.</l>
+               <l>A <hi>Moſes</hi> for Humility and Zeal,</l>
+               <l>For Innocence a true <hi>Nathaniel;</hi>
+               </l>
+               <l>Faithful as <hi>Abraham,</hi> or the Truer Spies;</l>
+               <l>
+                  <hi>No Man more Honeſt, and but few ſo Wiſe:</hi>
+               </l>
+               <l>Exemplar Vertue ſhone through every Part;</l>
+               <l>For Grace had full poſſeſſion of his Heart:</l>
+               <pb n="9" facs="tcp:152930:8"/>
+               <l> 
+                  <hi>Humility was his dear and darling Grace,</hi>
+               </l>
+               <l>
+                  <hi>And Honeſty ſate Regent in his Face;</hi>
+               </l>
+               <l>
+                  <hi>Meekneſs</hi> of Soul did in his Aſpect ſhine,</l>
+               <l>But in the Truth, reſolv'd and <hi>maſculine;</hi>
+               </l>
+               <l>A <hi>Pleaſing Smile</hi> ſate ever on his Brow,</l>
+               <l>A ſign that chearful Peace was lodg'd below.</l>
+               <l>If e'er his Duty forc'd him to contend,</l>
+               <l>
+                  <hi>Calmneſs was all his Temper, Peace his End;</hi>
+               </l>
+               <l>And if juſt Cenſure follow'd the Debate,</l>
+               <l>His Pity wou'd his Zeal anticipate.</l>
+               <l>A Heavenly Patience did his Mind poſſeſs,</l>
+               <l>
+                  <hi>Chearful in Pain, and Thankful in Diſtreſs;</hi>
+               </l>
+               <l>Mighty in Works of Sacred Charity,</l>
+               <l>Which none knew better how to guide than he;</l>
+               <l>Bounty, and generous Thoughts, took up his Mind</l>
+               <l>
+                  <hi>Extenſive, like his Maker's, to Mankind,</hi>
+               </l>
+               <l>With ſuch a Soul, that (had he Mines in ſtore)</l>
+               <l>
+                  <hi>He wou'd ne'er be Rich while any Man was Poor:</hi>
+               </l>
+               <pb n="10" facs="tcp:152930:9"/>
+               <l> A Heart ſo Great, that, had he had a Purſe,</l>
+               <l>
+                  <hi>Twou'd have ſupply'd the Poor o'th' Univerſe.</hi>
+               </l>
+               <l>Now he's above the Praiſes of my Pen,</l>
+               <l>
+                  <hi>The Beſt of Miniſters, and Beſt of Men!</hi>
+               </l>
+               <l>Then ſpeak not of him with a <hi>mournful Voice;</hi>
+               </l>
+               <l>For why ſhou'd we Repine, and he Rejoyce?</l>
+               <l>
+                  <hi>His Harveſt has been full, his Seaſon long,</hi>
+               </l>
+               <l>
+                  <hi>And long he charm'd us with his Heavenly Song,</hi>
+               </l>
+               <l>The ſame, the very ſame, which <hi>flaming Love,</hi>
+               </l>
+               <l>Fir'd with Coeleſtial Raptures, ſings above;</l>
+               <l>Touch'd with a <hi>Sacred Influence</hi> that's given</l>
+               <l>
+                  <hi>From that Eternal Harmony in Heaven;</hi>
+               </l>
+               <l>The <hi>Chorus</hi> and the <hi>Conſort</hi> ever laſt,</l>
+               <l>A full Reward for all his Troubles paſt.</l>
+               <l>For if there be a God, and future State,</l>
+               <l>A Heaven, a Hell, a Good and Evil Fate;</l>
+               <l>A Great <hi>firſt Cauſe,</hi> Immortal and Immenſe,</l>
+               <l>That does Rewards and Puniſhments diſpenſe;</l>
+               <pb n="11" facs="tcp:152930:9"/>
+               <l> Then Pious Men, when they revolve to Duſt,</l>
+               <l>Do thoſe Rewards partake, if Heaven be Juſt:</l>
+               <l>For Death's a <hi>paſſive Notion;</hi> and the whole</l>
+               <l>Is but a Tranſmutation of the Soul</l>
+               <l>From an embodied Life, to a ſublime,</l>
+               <l>Preſcrib'd no more to <hi>Circumſtance</hi> and Time;</l>
+               <l>For if no difference of States there be,</l>
+               <l>How then do <hi>Vice</hi> and <hi>Vertue</hi> diſagree?</l>
+               <l>For here the Diſadvantage plainly lies</l>
+               <l>For Knaves and Fools, againſt the Juſt and Wiſe:</l>
+               <l>By partial Fame the <hi>proſperous Fool's</hi> careſs'd,</l>
+               <l>The Bad exalted, and the Good ſuppreſs'd.</l>
+               <l>The Good Man's Expectation then <hi>muſt</hi> be</l>
+               <l>From Happineſs with <hi>Immortality:</hi>
+               </l>
+               <l>Something which to ſublimer Vertue's due,</l>
+               <l>Something ſubſtantial and eternal too,</l>
+               <l>That can for all his Suffering ſatisfie,</l>
+               <l>His Hopes ſupport, and all his Wants ſupply:</l>
+               <pb n="12" facs="tcp:152930:10"/>
+               <l> For if to future State we have no regard,</l>
+               <l>How then can Vertue be its own Reward?</l>
+               <l>Could but my happy Pen deſcribe the Senſe</l>
+               <l>That ſeiz'd his joyful Soul at parting hence;</l>
+               <l>Such Contemplations would transform my Mind;</l>
+               <l>For <hi>Thoughts reach Heaven,</hi> when Bodies ſtay behind:</l>
+               <l>And he that thinks at ſo Divine a rate,</l>
+               <l>May future Happineſs anticipate.</l>
+               <l>When his Heart leap'd at the good News of Death,</l>
+               <l>And Sacred Extaſies employ'd his Breath,</l>
+               <l>The bleſs'd Rewards did to his <hi>Faith</hi> appear,</l>
+               <l>The Paſſage eaſie, and the Proſpect near;</l>
+               <l>And firm Aſſurance, with a lofty Gale,</l>
+               <l>Wing'd with Divineſt Comfort, fill'd his Sail:</l>
+               <lg>
+                  <l>He had the gladſome Regions in his view,</l>
+                  <l>His Hopes were <hi>conſtant,</hi> and his Comforts <hi>true:</hi>
+                  </l>
+                  <l>
+                     <hi>No wonder</hi> Balaam <hi>wiſh'd to die ſo too.</hi>
+                  </l>
+               </lg>
+               <pb n="13" facs="tcp:152930:10"/>
+               <l> And now <hi>Seraphick Joys</hi> furround his Soul,</l>
+               <l>Which feel no diminution or controul:</l>
+               <l>But what they are, or how far they extend,</l>
+               <l>No Pen <hi>can write,</hi> or Thought <hi>can comprehend,</hi>
+               </l>
+               <l>But he who at that happy Place arrives;</l>
+               <l>
+                  <hi>For Heaven is only knownby Negatives.</hi>
+               </l>
+               <l>How much Coeleſtial Viſion comprehends;</l>
+               <l>Whether to <hi>Humane Actions</hi> it extends,</l>
+               <l>Whether he's now inform'd of Things below,</l>
+               <l>
+                  <hi>Is needleſs as Impoſſible to know:</hi>
+               </l>
+               <l>For ſight of Spirits is unpreſcrib'd by ſpace.</l>
+               <l>
+                  <hi>What ſee they not, who ſee the Eternal Face?</hi>
+               </l>
+               <l>The bright transforming Rays of <hi>Heavenly Light,</hi>
+               </l>
+               <l>Immenſe, Immortal, Pure, and Infinite,</l>
+               <l>Do's <hi>Likeneſs with its Light</hi> communicate,</l>
+               <l>The Spirit exalt, and all its Frame dilate;</l>
+               <pb n="14" facs="tcp:152930:11"/>
+               <l> Infuſing with the bright Similitude</l>
+               <l>
+                  <hi>An inexpreſſible</hi> Beatitude!</l>
+               <l>And could he now, in his exalted State,</l>
+               <l>His Thoughts by Sympathy communicate,</l>
+               <l>Or ſome ſuperior way<lb/> 
+                  <hi>For Spirits converſe</hi>
+               </l>
+               <l>
+                  <hi>Without the helps of Voice:</hi>
+                  <lb/> Could he rehearſe</l>
+               <l>To our Conception, what is Heaven above,</l>
+               <l>'Twou'd be conciſely thus, <hi>All Heaven is Love:</hi>
+               </l>
+               <l>Love Infinite, Magnificent, and True,</l>
+               <l>Divine in Magnitude, and Object too:</l>
+               <l>Love, Joy, and Glory, conſtitute the Place;</l>
+               <l>The Exalted Triumphs of <hi>Victorious Grace!</hi>
+               </l>
+               <pb n="15" facs="tcp:152930:11"/>
+               <l> No Sorrow can be there, becauſe no Sin;</l>
+               <l>For all is <hi>Peace</hi> without, and <hi>Pure</hi> within.</l>
+               <l>
+                  <hi>There all are Gods,</hi> and yet they all adore</l>
+               <l>The One Supream <hi>firſt Cauſe</hi> of Soveraign Power;</l>
+               <l>And all <hi>that Adoration</hi>'s mix'd with Love,</l>
+               <l>The <hi>great Eſſential</hi> of the Joys above:</l>
+               <l>
+                  <hi>That Heaven-born Paſſion,</hi> which with pureſt Flame</l>
+               <l>Burns only there: For here 'tis but a Name,</l>
+               <l>An empty Name, by Int'reſt limited,</l>
+               <l>
+                  <hi>A Slave to Scandal,</hi> and by Fancy led.</l>
+               <l>Friendſhip, <hi>unmix'd with Sexes,</hi> reigns above</l>
+               <l>The true Extream of high ſuperior Love;</l>
+               <l>Emblem of Heaven, which it reſembles ſo,</l>
+               <l>It almoſt ſeems to make <hi>a Heaven below:</hi>
+               </l>
+               <l>For Love in Heaven, <hi>is God communicate;</hi>
+               </l>
+               <l>In Souls, Collateral; both ſupreamly Great:</l>
+               <pb n="16" facs="tcp:152930:12"/>
+               <l> The Enjoyment's as reciprocal as high;</l>
+               <l>For Love's no Paſſion, <hi>but a Quality:</hi>
+               </l>
+               <l>Thro' it the Almighty Glory darts his Beams,</l>
+               <l>Known only by unutterable Names;</l>
+               <l>With Light and Splendor <hi>unapproach'd</hi> enthron'd,</l>
+               <l>Millions of fiery Spirits attending round,</l>
+               <l>Who all, like Star<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, have Brightneſs from <hi>his Rays,</hi>
+               </l>
+               <l>
+                  <hi>And they reflect it back again in Praiſe.</hi>
+               </l>
+               <l>Where e'er this <hi>bleſs'd Society ſhall dwell,</hi>
+               </l>
+               <l>
+                  <hi>That Place is Heaven, and every where elſe is Hell.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
